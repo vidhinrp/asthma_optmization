@@ -1,1 +1,1 @@
-# Lab: Economic Evaluation with Discrete-Time Markov Models
+# Cost Effectiveness of Interventions with Discrete-Time Markov Models
